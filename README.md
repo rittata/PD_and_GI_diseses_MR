@@ -2,7 +2,7 @@ This repository contains code used for my first year master's project at ITMO Un
 
 I used a two sample Mendelian randomisation (MR) method to obtain previously unpublished causal relationships between several gastrointestinal diseases (chronic and acute pancreatitis, diverticular disease, peptic ulcer disease) and Parkinson's disease (PD risk, age at onset, and PD-related phenotypes: cognitive impairment, several standardised motor and cognitive scales). In addition, MR analyses were performed for vitamin B12 levels and GI diseases to validate the results obtained in the first semester (see [report](https://drive.google.com/file/d/1GyNfPNlcYvsMLIwNGCRs4NdajW5yY82Y/view?usp=drive_link)). Details of the data sets are given in the table:
 
-| Trait |	Abbreviation used in code |	Study |	Data source |	Prevalence source* |	Trait type |	N cases |	N controls |	Sample size |
+| Trait |	Abbreviation used in code |	GWAS study |	Data source |	Prevalence source* |	Trait type |	N cases |	N controls |	Sample size |
 | --- |	--- |	--- |	--- |	--- |	--- |	--- |	--- |	--- |
 | ***Exposure data*** |	 |	 |	 |	 |	 |	 |	 |	 |
 | Alcoholic chronic pancreatitis |	Panc_Alc_Chr |	[Rosendahl et al. 2017](https://pubmed.ncbi.nlm.nih.gov/28754779/) |	Supplementary file 2 in the article [SP2.xlsx]; [modified dataset used in the analysis](https://drive.google.com/file/d/1ruw0SBYPfvU2nDBEnRl44Z1w5tmboRye/view?usp=drive_link)  |	[Yadav et al. 2011](https://pubmed.ncbi.nlm.nih.gov/28754779/) |	Binomial |	1959 |	6040 |	7999 |
